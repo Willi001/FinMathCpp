@@ -1,0 +1,2 @@
+# FinMathCpp
+Finanzmathematik mit C++
